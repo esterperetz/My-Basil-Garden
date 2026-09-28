@@ -1,4 +1,4 @@
-# 🌱 CloudRoot
+# 🌱 My Basil Garden
 
 CloudRoot is a cloud-based IoT and AI application designed to help users monitor and manage basil plants.
 
